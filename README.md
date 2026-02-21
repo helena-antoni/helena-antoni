@@ -21,9 +21,9 @@
 <p align="left" style="font-size:20px">
   <font size="3">
   
-  Sou uma profissional movida por curiosidade, criatividade e compromisso com a evolução contínua. Atualmente, atuo como **Analista de QA**, fazendo **Testes Manuais** e aprendendo mais sobre **automação de testes**.
+  Sou uma profissional movida por curiosidade, criatividade e compromisso com a evolução contínua. Atualmente, atuo como **Analista de QA**, fazendo **Testes Manuais** e aprendendo mais sobre **Automação de Testes**.
 
-  Paralelamente, desenvolvo projetos web com foco em **Front-end**, utilizando o **React.js**, que amplia meu conhecimento na área de **Desenvolvimento** e **Qualidade de Softare**. 
+  Paralelamente, desenvolvo projetos web com foco em **Front-end**, utilizando o **React.js**, que amplia meu conhecimento na área de **Desenvolvimento** e **Qualidade de Software**. 
 
   Sinta-se à vontade para explorar meu perfil e meus projetos. 🚀
 </p>
