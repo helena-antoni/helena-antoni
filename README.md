@@ -1,22 +1,23 @@
-<div style="margin-top:50px"></div>
+<div style="height: 25px;"></div>
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=ff914d"  />
-</div>
-
-<div align="center">
-<!-- <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />--> 
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=8C52FF"  />
 </div>
 
 
-<h1 align="left">Bem-vindo(a) ao meu Github! 👋</h1>
+<div style="height: 40px;"></div>
+
+<p align="center">
+  <img src="./assets/banner.svg" width="100%">
+</p>
+<div style="height: 40px;"></div>
 
 
-###
- 
-<h2 align="left"><img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJzY2Zhb2JmcXJqMTRkbXh6Ymk4NDN6MThhdWppOHhidnV4dm5udSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f8h8oEShbB1YuagU6i/giphy.gif" width ="30"/> Sobre mim</h2>
+<h1 align="left">Seja Bem-vindo(a)! 👋</h1>
 
-###
+## <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhhbHo1ZWpqNmlobGp6ODQzbTBvdjRpa3lnNXl5enpyM2V0czlnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f8h8oEShbB1YuagU6i/giphy.gif" width ="40"/> Sobre mim
+
+
 
 <p align="left" style="font-size:20px">
   <font size="3">
@@ -27,9 +28,10 @@
 
   Sinta-se à vontade para explorar meu perfil e meus projetos. 🚀
 </p>
-<h2 align="left"><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"/> Tecnologias e Ferramentas</h2>
 
-### <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnptbXRqbnc2N2syczJncG0zdWdhbzh5NDc5cnNjYTNodmczdXNwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ib6ht1WtpC3IwRaDvF/giphy.gif" width ="30"/> Qualidade de Software & Testes
+## <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"/> Tecnologias e Ferramentas</h2>
+
+### <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA5ZzJvZzZ2OGNmdWI2ZGxldjJveDRkem1xOXJoZHppNGMzdHF3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpixwspmXt8NwBZHEC/giphy.gif" width ="20"/> Qualidade de Software & Testes
 
 <table align="left">
   <tr>
@@ -62,7 +64,7 @@
 
 <br><br><br><br> 
 
-### <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnptbXRqbnc2N2syczJncG0zdWdhbzh5NDc5cnNjYTNodmczdXNwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ib6ht1WtpC3IwRaDvF/giphy.gif" width ="30"/> Desenvolvimento Web
+### <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjA5ZzJvZzZ2OGNmdWI2ZGxldjJveDRkem1xOXJoZHppNGMzdHF3MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LpixwspmXt8NwBZHEC/giphy.gif" width ="20"/> Desenvolvimento Web
 
 <table align="left">
   <tr>
@@ -124,7 +126,7 @@
   <img src="https://img.shields.io/badge/-%22A%20busca%20pelo%20aprendizado%20corre%20em%20minhas%20veias.%22-purple?style=for-the-badge&border=true" />
 </p>-->
  
-## 📫 Se conecte comigo 
+## <img align="center" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhhbHo1ZWpqNmlobGp6ODQzbTBvdjRpa3lnNXl5enpyM2V0czlnZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f8h8oEShbB1YuagU6i/giphy.gif" width ="40"/> Conecte-se comigo
 
   <div>
     <a href="mailto:helena.antoni.dev@gmail.com">
@@ -138,6 +140,9 @@
   </div> 
  
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=#ff914d"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=FF914D"  />
 </div>
 
+
+
+ 
