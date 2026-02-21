@@ -18,55 +18,107 @@
 
 ###
 
-<p align="left">Sou uma profissional que é movida por criatividade, foco e curiosidade. <br>
-Atualmente sou Analista de QA, estou estudando e colocando em prática testes e aprendendo automoção. Paralelamente, desenvolvo projetos como Web com foco no Front-End.<br>
-Fique a vontade em visualizar meu perfil e meus projetos.
+<p align="left" style="font-size:20px">
+  <font size="3">
+  
+  Sou uma profissional movida por curiosidade, criatividade e compromisso com a evolução contínua. Atualmente, atuo como **Analista de QA**, fazendo **Testes Manuais** e aprendendo mais sobre **automação de testes**.
+
+  Paralelamente, desenvolvo projetos web com foco em **Front-end**, utilizando o **React.js**, que amplia meu conhecimento na área de **Desenvolvimento** e **Qualidade de Softare**. 
+
+  Sinta-se à vontade para explorar meu perfil e meus projetos. 🚀
 </p>
-
-
 <h2 align="left"><img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30"/> Tecnologias e Ferramentas</h2>
 
 ### <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnptbXRqbnc2N2syczJncG0zdWdhbzh5NDc5cnNjYTNodmczdXNwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ib6ht1WtpC3IwRaDvF/giphy.gif" width ="30"/> Qualidade de Software & Testes
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" height="45" alt="jira logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" height="45" alt="cucumber logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="45" alt="ruby logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" height="45" alt="cypress logo" />
-  <img width="15" />
-  <img src="https://clickup.com/images/for-se-page/clickup.png" height="45" alt="clickup logo" />
-</div>
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" width="48" height="48" alt="Jira" />
+      <br>Jira
+    </td>
+    <td align="center" width="96">
+      <img src="https://clickup.com/images/for-se-page/clickup.png" width="48" height="50" alt="ClickUp" />
+      <br>ClickUp
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cucumber/cucumber-plain.svg" width="48" height="48" alt="Cucumber" />
+      <br>Cucumber
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby" />
+      <br>Ruby
+    </td>
+    <!-- <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" width="48" height="48" alt="Cypress" />
+      <br>Cypress
+    </td> -->
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="API" />
+      <br>API Test
+    </td>
+  </tr>
+</table>
 
-### <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnptbXRqbnc2N2syczJncG0zdWdhbzh5NDc5cnNjYTNodmczdXNwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ib6ht1WtpC3IwRaDvF/giphy.gif" width ="30"/> Desenvolvimento Front-end
+<br><br><br><br> 
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="git logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="35" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="45" alt="react logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="45" alt="nextjs logo" />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="45" alt="tailwind logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="35" alt="vite logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original-wordmark.svg" height="35" alt="vercel logo" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo" />  
-</p>
+### <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnptbXRqbnc2N2syczJncG0zdWdhbzh5NDc5cnNjYTNodmczdXNwaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ib6ht1WtpC3IwRaDvF/giphy.gif" width ="30"/> Desenvolvimento Web
+
+<table align="left">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JS" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TS" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="API" />
+      <br>API Rest
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" />
+      <br>Vite
+    </td>
+    
+     
+  </tr>
+</table>
 
 <br /><br />
+<br /><br />
+<br /><br />
+
 
 <!--<p align="left">
   <img src="https://img.shields.io/badge/-%22A%20busca%20pelo%20aprendizado%20corre%20em%20minhas%20veias.%22-purple?style=for-the-badge&border=true" />
